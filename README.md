@@ -1,4 +1,6 @@
 **Neural Networks Classifier**
+
+
 **Problem Statement: Neural_Networks_1**
 - **DOMAIN:** Electronics and Telecommunication
 - **CONTEXT:** A communications equipment manufacturing company has a product which is responsible for emitting informative signals. Company wants to build a machine learning model which can help the company to predict the equipment’s signal quality using various parameters.
@@ -6,6 +8,7 @@
     1. Parameters: Various measurable signal parameters.
     2. Signal_Quality: Final signal strength or quality        
 - **PROJECT OBJECTIVE:** To build a classifier which can use the given parameters to determine the signal strength or quality.
+
 
 **Problem Statement: Neural_Networks_2**
 - **DOMAIN:** Autonomous Vehicles
